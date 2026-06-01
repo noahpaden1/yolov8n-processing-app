@@ -1,3 +1,5 @@
 This program takes images in a 'data/val' directory and then puts the annotated images into a directory of 'data/output'
+  - Create a folder named 'data'
+  - In this 'data' folder create two other folders called 'val' and 'output'
 To run normally just run 'python main.py'
 To run the OpenCV on this program put this into the terminal 'python main.py --live'
